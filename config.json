@@ -1,0 +1,22 @@
+{
+    "server": {
+        "name": "Minecraft Launcher Official",
+        "version": "2.0",
+        "api_url": "http://ваш-сайт.ru/api",
+        "update_url": "http://ваш-сайт.ru/api/check_update"
+    },
+    "launcher": {
+        "min_version": "1.0.0",
+        "latest_version": "2.0.0",
+        "java_recommended": "17",
+        "default_ram": "4096M",
+        "max_ram": "16384M"
+    },
+    "features": {
+        "mods": true,
+        "builds": true,
+        "news": true,
+        "statistics": true,
+        "feedback": true
+    }
+}

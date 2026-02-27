@@ -1,0 +1,38 @@
+[
+    {
+        "id": "jei",
+        "name": "Just Enough Items",
+        "description": "Просмотр рецептов крафта",
+        "version": "15.2.0.27",
+        "mc_version": "1.20.1",
+        "loader": "forge,fabric",
+        "download_url": "/api/download/mod/jei",
+        "size_mb": 3.5,
+        "image": "https://ваш-сайт.ru/mods/jei.png",
+        "popularity": 95
+    },
+    {
+        "id": "optifine",
+        "name": "OptiFine",
+        "description": "Оптимизация графики и FPS",
+        "version": "HD_U_H8",
+        "mc_version": "1.20.1",
+        "loader": "forge",
+        "download_url": "/api/download/mod/optifine",
+        "size_mb": 2.8,
+        "image": "https://ваш-сайт.ru/mods/optifine.png",
+        "popularity": 98
+    },
+    {
+        "id": "create",
+        "name": "Create",
+        "description": "Механизмы и автоматизация",
+        "version": "0.5.1",
+        "mc_version": "1.20.1",
+        "loader": "forge,fabric",
+        "download_url": "/api/download/mod/create",
+        "size_mb": 12.4,
+        "image": "https://ваш-сайт.ru/mods/create.png",
+        "popularity": 87
+    }
+]

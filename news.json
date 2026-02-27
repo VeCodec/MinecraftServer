@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Minecraft 1.20.4",
+        "description": "Вышло новое обновление с исправлениями",
+        "image": "https://ваш-сайт.ru/images/news1.jpg",
+        "date": "2024-01-15",
+        "badge": "Релиз",
+        "important": true
+    },
+    {
+        "id": 2,
+        "title": "Forge 47.1.0",
+        "description": "Обновление Forge для 1.20.1-1.20.4",
+        "image": "https://ваш-сайт.ru/images/news2.jpg",
+        "date": "2024-01-10",
+        "badge": "Forge"
+    },
+    {
+        "id": 3,
+        "title": "Новые моды в сборке",
+        "description": "Добавлены популярные моды в официальную сборку",
+        "image": "https://ваш-сайт.ru/images/news3.jpg",
+        "date": "2024-01-05",
+        "badge": "Моды"
+    }
+]

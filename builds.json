@@ -1,0 +1,26 @@
+[
+    {
+        "id": "tech-pack",
+        "name": "Техническая сборка",
+        "description": "Все технические моды в одном",
+        "version": "1.20.1",
+        "loader": "forge",
+        "mods": ["jei", "create", "ae2", "thermal"],
+        "download_url": "/api/download/build/tech-pack",
+        "size_mb": 245,
+        "image": "https://ваш-сайт.ru/builds/tech.jpg",
+        "downloads": 15420
+    },
+    {
+        "id": "magic-pack",
+        "name": "Магическая сборка",
+        "description": "Моды на магию и приключения",
+        "version": "1.19.2",
+        "loader": "fabric",
+        "mods": ["botania", "ars_nouveau", "irons_spells"],
+        "download_url": "/api/download/build/magic-pack",
+        "size_mb": 189,
+        "image": "https://ваш-сайт.ru/builds/magic.jpg",
+        "downloads": 8732
+    }
+]
